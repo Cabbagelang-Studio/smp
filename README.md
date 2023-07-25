@@ -1,0 +1,2 @@
+# smp
+Cabbagelang SMP Website.
